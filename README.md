@@ -20,7 +20,7 @@ I dati restano sul dispositivo; il repository contiene solo l'app.
 
 ## Aggiornamenti
 Carica il nuovo `index.html` (Add file → Upload files, sovrascrive). L'app mostra "App aggiornata · Ricarica".
-Per tracciare le versioni crea una *Release* con tag `v0.7.0` e incolla le note da `CHANGELOG.md`:
+Per tracciare le versioni crea una *Release* con tag `v0.8.0` e incolla le note da `CHANGELOG.md`:
 l'app mostra l'ultima release in Utente → Informazioni.
 
 ## Segnalare un problema

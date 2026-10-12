@@ -1,5 +1,15 @@
 # Registro revisioni — Dieta CREA
 
+## v8 · beta 0.8.0 (grafica e UX)
+- Interfaccia ridisegnata in stile iOS recente: tab bar flottante in vetro, barra titolo con titolo grande che si riduce, liste raggruppate, tipografia che segue la dimensione del testo di iOS (Dynamic Type), modalità scura con colori di sistema.
+- Alimenti: ricerca con "Annulla", foglio Filtri (ordinamento, categoria, valori critici), righe con macro colorati.
+- Pasti: titolo modificabile a capo, categoria con un tocco, elimina con scorrimento, riga "Aggiungi alimento", dettaglio alimento con 100 g / porzione.
+- Settimana: selettore giorni con animazione, anelli giornalieri di proteine/grassi/carboidrati, fasce con icone, grafici ad anello per obiettivo e avanzamento.
+- Spesa: carrello con barra di avanzamento, spunte, prezzo modificabile nel dettaglio del prodotto, stati vuoti.
+- Gesti: scorri per eliminare, trascina verso il basso per chiudere i fogli; animazioni fluide e feedback aptico dove supportato.
+- Correzione: dopo aver scritto nella ricerca il primo tocco su un risultato non andava più perso.
+- Nuova icona dell'app.
+
 ## v7 · beta 0.7.0
 - Backup: file con impronta SHA-256, cifratura opzionale AES-256 con password, anteprima prima del ripristino e copia di sicurezza automatica.
 - Versioni automatiche: fino a 15 copie locali (una al giorno), ripristinabili.
